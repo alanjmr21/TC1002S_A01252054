@@ -18,13 +18,13 @@ Nickolas Rodriguez
 Para la realizacion de los ejercicios se debera clonar este repositorio.
 Asimismo se debera tener instalado Anaconda 3 y tener instalado python 3
 
-Ppara visualizar y abrir los archivos se debera correr el siguiente comando:
+Para visualizar y abrir los archivos se debera correr el siguiente comando:
 jupyter notebook, en el directorio donde se guardo este repositorio. Esto
 abrira un jupyter notebook con los archivos y su codigo
 
-Ejercicio 1: Obtencion de Estadisticas Descriptivas
-Ejercicio 2: Mapas de Calor y Boxplots
-Ejercicio 3: K Means
+1. Ejercicio 1: Obtencion de Estadisticas Descriptivas
+2. Ejercicio 2: Mapas de Calor y Boxplots
+3. Ejercicio 3: K Means
 
 
 
